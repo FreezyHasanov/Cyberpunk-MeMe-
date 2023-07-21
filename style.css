@@ -1,0 +1,13 @@
+html{background-color: black;}
+    img{border: 3px solid white;
+    }
+h1{text-align: center;
+color: white;
+font-size: x-large;
+font-family: 'Dancing Script', cursive;
+font-family: 'Roboto Slab', serif;}
+.center{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+  
